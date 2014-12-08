@@ -10,6 +10,7 @@ Learn python scrapy week by week.
 ### framwork
 1. [知乎](http://www.zhihu.com/question/20899988 'external link')
 2. [知乎](http://www.zhihu.com/question/21358581 'external link')
+3. [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs3/documentation.zh.html 'Beautiful Soup')
 
 ### python3+
 1. [jecvay](http://jecvay.com/2014/09/python3-web-bug-series1/ 'external link')
