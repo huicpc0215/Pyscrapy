@@ -15,4 +15,7 @@ Learn python scrapy week by week.
 1. [jecvay](http://jecvay.com/2014/09/python3-web-bug-series1/ 'external link')
 
 ### python2
-2. [csdn](http://blog.csdn.net/pleasecallmewhy/article/details/8922826 ‘external link’)
+1. [csdn](http://blog.csdn.net/pleasecallmewhy/article/details/8922826 'external link')
+
+### others
+1. [外文资料](http://www.voidspace.org.uk/python/articles/urllib2.shtml#openers-and-handlers 'external link')
