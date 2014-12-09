@@ -1,0 +1,325 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<title>Jecvay Notes - Good luck &amp; Have fun</title>	
+<meta name="keywords" content="Jecvay,刘杰威,计算机" />
+<meta name="description" content="刘杰威 | Jecvay | 剧情稍微热血一点就会热泪盈眶" />
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no">
+<meta name="alexaVerifyID" content="XG6cRnhJYfOqlCGAAy2WK0csTw4"/>
+<link rel="shortcut icon" href="http://jecvay.com/favicon.ico" type="image/x-icon" />
+		<link rel="alternate" type="application/rss+xml" title="Jecvay Notes &raquo; Feed" href="http://jecvay.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jecvay Notes &raquo; Comments Feed" href="http://jecvay.com/comments/feed/" />
+<link rel='stylesheet' id='crayon-css'  href='http://jecvay.com/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-theme-ado-css'  href='http://jecvay.com/wp-content/plugins/crayon-syntax-highlighter/themes/ado/ado.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-font-monaco-css'  href='http://jecvay.com/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpctc_wpctc-css'  href='http://jecvay.com/wp-content/plugins/wp-category-tag-could/css/wpctc.min.css?ver=0.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='http://jecvay.com/wp-content/themes/JecEasyPoint/css/normalize.css?ver=1.13' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-css'  href='http://jecvay.com/wp-content/themes/JecEasyPoint/style.css?ver=1.13' type='text/css' media='screen' />
+<script type="text/javascript">
+var duoshuoQuery = {"short_name":"jecvay","sso":{"login":"http:\/\/jecvay.com\/wp-login.php?action=duoshuo_login","logout":"http:\/\/jecvay.com\/wp-login.php?action=logout&_wpnonce=3f22081cc1"},"theme":"default","stylePatch":"wordpress\/Maupassant"};
+duoshuoQuery.sso.login += '&redirect_to=' + encodeURIComponent(window.location.href);
+duoshuoQuery.sso.logout += '&redirect_to=' + encodeURIComponent(window.location.href);
+</script>
+<script type="text/javascript" src="http://static.duoshuo.com/embed.js" charset="UTF-8" async="async"></script>
+<script type='text/javascript' src='http://cdn.staticfile.org/jquery/1.11.1/jquery.min.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://cdn.staticfile.org/jquery-migrate/1.2.1/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"2.6.8","is_admin":"0","ajaxurl":"http:\/\/jecvay.com\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://jecvay.qiniudn.com/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='http://x.papaapp.com/farm1/a571d2/8dda131d/html5shiv.js?ver=3.7.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://jecvay.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://jecvay.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+	<link id="favicon" href="http://jecvay.com/favicon.ico" rel="icon" type="image/x-icon" />
+</head>
+<body>
+<header id="header" class="clearfix">
+    <div class="container">
+        <div class="col-group">
+            <div class="site-name ">
+                <a id="logo" href="http://jecvay.com">
+                   Jecvay Notes                </a>
+        	    <p class="description">Good luck &amp; Have fun</p>
+            </div>
+            <div>
+                <nav id="nav-menu" class="clearfix"><ul id="menu-%e5%af%bc%e8%88%aa%e8%8f%9c%e5%8d%95" class="menu"><li id="menu-item-457" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-457"><a href="http://jecvay.com">首页</a></li>
+<li id="menu-item-456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-456"><a href="http://see.jecvay.com">威看</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a title="ACM" href="http://jecvay.com/category/acm-icpc/">ACM</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://jecvay.com/category/smtech/">杂技</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://jecvay.com/category/bibi/">瞎扯</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://jecvay.com/category/thinking/">思考</a></li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="http://jecvay.com/about-me/">我</a></li>
+</ul></nav>            </div>
+        </div>
+    </div>
+</header>
+<div id="body">
+    <div class="container">
+        <div class="col-group">
+<div class="col-8" id="main">
+	<div class="res-cons">
+					<article class="post">
+				<h2 class="post-title">
+					<a href="http://jecvay.com/2014/11/what-is-min-cut/">科普: 什么是最小割</a>
+				</h2>
+				<ul class="post-meta">
+					<li>November 29, 2014 | 15:30</li>
+					<li class="comment-count"></li>
+				</ul>
+				<div class="post-content">
+					<h2>图解最小割</h2>
+<p>先说明, 最大流的最大, 说的是流的最大; 最小割的最小, 说的是容量的最小.</p>
+<p><img class="alignnone" src="http://hi.csdn.net/attachment/201108/29/0_13145857440Fm8.gif" alt="" width="693" height="310" /></p>
+<p> <a href="http://jecvay.com/2014/11/what-is-min-cut/#more-512" class="more-link"> 阅读剩余部分 </a></p>
+				</div>
+			</article>
+					<article class="post">
+				<h2 class="post-title">
+					<a href="http://jecvay.com/2014/11/compiler-makes-fast-build/">Minecraft应该怎么玩? 编译原理解放生产力!</a>
+				</h2>
+				<ul class="post-meta">
+					<li>November 21, 2014 | 12:26</li>
+					<li class="comment-count"></li>
+				</ul>
+				<div class="post-content">
+					<h2>语言之争</h2>
+<p>哪一种编程语言更好这个问题, 自计算机科学诞生以来就争论不休. 计算机发展之初, 各种语言相当简陋, 今天新出现的各种编程语言已经比过去的概念先进了很多很多, 但是语言之争依旧.</p>
+<p>各种编程语言发展到今天, 编程的方式也多样化起来, 有用鼠标就能完成编程的, 有语音识别编程的. 语言的概念也十分丰富, 从传统的面向过程编程, 到流行的面向对象编程, 到函数式编程, 还有别的更抽象更神奇的小众语言.</p>
+<p>如今对一个技术上的特定问题, 基本上能够找到对应的最适合的语言来进行开发. 例如要写和硬件密切相关的驱动程序, 那么C语言和C++语言是十分合适的; 如果要写网站, 那么PHP, HTML5, JS等等诸多语言也是非常方便的; 如果要写网络爬虫, 那么Python, C#, Java会节省我们非常多的时间. 没有一种语言能够全方位的适用于解决各种不同的技术问题, 例如用C++来写一个类似php功能的东西就非常费劲, 用来写爬虫更费劲. 而且这种费劲并非是因为你需要用到更高深的算法和技术所带来的费劲, 而纯粹是因为这种语言本身就不适合做这样的工作, 而让你感到费劲. 这种费劲是没有意义的.</p>
+<p> <a href="http://jecvay.com/2014/11/compiler-makes-fast-build/#more-505" class="more-link"> 阅读剩余部分 </a></p>
+				</div>
+			</article>
+					<article class="post">
+				<h2 class="post-title">
+					<a href="http://jecvay.com/2014/11/ca-opengl-langton-ant/">细胞自动机! 用OpenGL动态展示兰顿蚂蚁</a>
+				</h2>
+				<ul class="post-meta">
+					<li>November 19, 2014 | 16:24</li>
+					<li class="comment-count"></li>
+				</ul>
+				<div class="post-content">
+					<h2>兰顿蚂蚁算法</h2>
+<p>因为作业要用OpenGL画几条线, 所以我打算画一个简单的细胞自动机. 我们选择最简单的<a href="http://zh.wikipedia.org/wiki/%E5%85%B0%E9%A1%BF%E8%9A%82%E8%9A%81"><strong>兰顿蚂蚁</strong></a>自动机. 这个自动机的核心算法非常简单:</p>
+<ul>
+<li>若蚂蚁在黑格，右转90度，将该格改为白格，向前移一步;</li>
+<li>若蚂蚁在白格，左转90度，将该格改为黑格，向前移一步.</li>
+</ul>
+<p>首先下载一个glut包, 然后简单配置一下VS2013, 让他可以工作. 然后我们就开始工作.</p>
+<p> <a href="http://jecvay.com/2014/11/ca-opengl-langton-ant/#more-496" class="more-link"> 阅读剩余部分 </a></p>
+				</div>
+			</article>
+					<article class="post">
+				<h2 class="post-title">
+					<a href="http://jecvay.com/2014/11/segment-tree-lazy-design/">Lazy! 谈区间修改线段树中懒惰标记的设计</a>
+				</h2>
+				<ul class="post-meta">
+					<li>November 16, 2014 | 16:22</li>
+					<li class="comment-count"></li>
+				</ul>
+				<div class="post-content">
+					<p>一个支持区间修改的线段树, 就要用到lazy标记. 用到哪一个结点, 有效数据就更新到哪一个结点, 避免浪费更新那些不必要的结点的时间. 从根部向下找一个结点, 一路下来根据lazy的设定进行相关的更新操作, 就能快速完成任务. 但是一不小心, 自己临时设定的lazy定义配上临时写出来的代码, 就很有可能有隐蔽的漏洞不被发现.</p>
+<p>&nbsp;</p>
+<h2>一个错误的例子</h2>
+<ul>
+<li>设线段树的数据保存在 segtree[] 里, 懒惰标记保存在 seglazy[] 里.</li>
+<li>如果一个结点 lazy = -1, 表示该节点的 segtree 值有效, 其区间修改对lazy的影响已经传给了他的左右儿子.</li>
+<li>如果一个结点 lazy != -1, 表示该节点表示的区间内, 所有元素的值都应该被修改为 lazy, 这个信号仍然没有传递给他的左右儿子</li>
+</ul>
+<p> <a href="http://jecvay.com/2014/11/segment-tree-lazy-design/#more-486" class="more-link"> 阅读剩余部分 </a></p>
+				</div>
+			</article>
+					<article class="post">
+				<h2 class="post-title">
+					<a href="http://jecvay.com/2014/11/poj3046-ant-counting/">POJ3046 Ant Counting</a>
+				</h2>
+				<ul class="post-meta">
+					<li>November 15, 2014 | 20:00</li>
+					<li class="comment-count"></li>
+				</ul>
+				<div class="post-content">
+					<blockquote><p>T种蚂蚁, 每种Ni只, 总共A只. 如果分成大小范围为S到B的集合, 能有多少种分法? {1, 2} 和 {2, 1} 是相同的两个大小为2的集合.</p></blockquote>
+<p>感觉这题和昨天做的POJ1742很像. 首先想到一个关系式:</p>
+<p><strong>dp[i][j][k], 表示长度为i, 集合里面元素升序排列的最后一个数字为j, 以及集合里面j的个数为k.</strong><br />
+这样dp[i][j][k] 就可以推出 dp[i+1][j][k+1]以及 {<span class='MathJax_Preview'>\(dp[i+1][j+1][1...N_{j+1}]\)</span><script type='math/tex'>dp[i+1][j+1][1...N_{j+1}]</script>}<br />
+但是这样要TLE. 想办法优化, 想了好久想不出来, 感觉这样一个表已经很裸了, 而且不同的ijk组合表示不同的结构, 很难找出规律来进行化简. 看来是dp的定义错了.</p>
+<p>换一个角度想, <strong>dp[i][j] 表示前 i 种蚂蚁组成长度为j的集合, 有多少种组合. </strong>于是有<br />
+<p style='text-align:center;'><span class='MathJax_Preview'>\[dp(i, j) = \sum_{k = 0}^{N_{i}}dp(i-1, j-k)\]</span><script type='math/tex;  mode=display'>dp(i, j) = \sum_{k = 0}^{N_{i}}dp(i-1, j-k)</script></p><br />
+这样dp[4][j] 的诞生大概可以用下图生动的说明(假设dp[3][4] 表示有且仅有 1, 2, 3, 3 这一种情况):</p>
+<p><a href="http://jecvay.qiniudn.com/wp-content/uploads/2014/11/QQ截图201411151548481.jpg"><img class="alignnone size-full wp-image-473 aligncenter" src="http://jecvay.qiniudn.com/wp-content/uploads/2014/11/QQ截图201411151548481.jpg" alt="QQ截图20141115154848" width="132" height="154" /></a></p>
+<p><a href="http://jecvay.qiniudn.com/wp-content/uploads/2014/11/QQ截图201411151548481.jpg"><br />
+</a>于是得到如下 TLE 的代码: <a href="http://jecvay.com/2014/11/poj3046-ant-counting/#more-463" class="more-link"> 阅读剩余部分 </a></p>
+				</div>
+			</article>
+					<article class="post">
+				<h2 class="post-title">
+					<a href="http://jecvay.com/2014/11/jecvaysee-vps-php/">威看! 远程登录vps写php</a>
+				</h2>
+				<ul class="post-meta">
+					<li>November 12, 2014 | 12:57</li>
+					<li class="comment-count"></li>
+				</ul>
+				<div class="post-content">
+					<h1><a title="威看" href="http://see.jecvay.com" target="_blank">传送门--&gt;</a></h1>
+<p>&nbsp;</p>
+<h2>免费VPS</h2>
+<p>前不久听说Github搞了个student pack的活动, 有学校邮箱就可以注册. 这个pack里面最大的福利就是 DigitalOcean 的 100 美元充值卡. $100 可以用低配 VPS 20个月, 够用到我毕业的啦! 此外还有免费一年 .me 域名, 以及免费 ssl 证书什么什么的一大堆. 可惜最近已经注册不了并且进入严格审查阶段, 不少冒充学生的帐号被封杀, 还有不少真学生被误杀, 希望我不要被误杀.</p>
+<p>这也是我人生第一个正规的 VPS. 之前虽然在阿里云买过一个一个月的ECS, 但是因为懒得去备案而且太贵所以就不算正式使用. 这次VPS一到手我就装上了 Ubuntu14.04.1, 为什么不用CentOS呢, 因为我不喜欢, 而且我不是维护大型网站的运维工程师, 我是喜欢乱搞的业余三流运维爱好者, 正好Ubuntu很方便乱搞, 于是我就Ubuntu啦!</p>
+<p>很凑巧, 在前不久一个机缘巧合, 我用XShell"远程"登录我的虚拟机里面的 Ubuntu Server, 体验了好些日子的命令行工作. 现在在Ubuntu下面敲命令已经比较熟练, 配置网络, bash配置文件, 搭建apache服务器, 或者nginx服务器, 配置php5和mysql都已经不成问题. 所以我在VPS上面安装好Ubuntu后, 立刻就配置好了http服务器. 由于服务器在新加坡, 所以用来架设一些有趣的什么什么N的东西也是很爽的.</p>
+<p>&nbsp;</p>
+<h2>Jecvay Sees</h2>
+<p>这个小东西现在已经做出1.0beta版, 由上方传送门可以达到, 中文名叫做"威看". 做这个小东西的原因有很多, 罗列如下:</p>
+<ul>
+<li>有时候我看到很精彩的博客, 想要收藏, 但是放在收藏夹那种感觉很奇怪. 我喜欢放在一个网页做成一个表的样子;</li>
+<li>精彩的东西想要分享给别人, 但是如果我主动分享, 很有可能别人没有兴趣看. 因此把我喜欢的链接挂在这么一个地方, 想知道我看什么的人自然可以轻松看到; 不关心我看什么的人自然不会去看这个列表;</li>
+<li>这个东西就是私人专用 <a href="https://news.ycombinator.com/" target="_blank">Hacker News</a>, 或者私人 <a href="http://news.dbanotes.net/" target="_blank">Startup News</a></li>
+<li>Hacker News是开源的, 为什么不直接用呢, 还要自己写, 功能还这么不完善? 因为写代码是能够带来乐趣的, 即使是造轮子, 感觉也是很好的. 而且写代码和看源码的收获是不一样的, 源码要看, 代码也是要写的;</li>
+<li>VPS 不能闲置着不干事, 但是要做复杂的事情又没有经验, 所以这算是一个简单的小项目, 算是一个小的开始;</li>
+<li>可以学学前端技术, 前端是很好玩的; 可以学学MySQL, 正好这学期学数据库; 可以学学网络知识, 比如Cookies记住管理员信息; 可以考虑信息安全方面的东西, 比如如何写, 才能没有漏洞让黑客入侵后台, 这个要详细说一下: 以前我看&lt;&lt;黑客X档案&gt;&gt;这本杂志, 看到不少人用奇怪的方法来入侵网站后台, 我都不知道他们是如何想到这样的方法. 但是昨晚我写管理员后台登录这个程序的时候, 我就想到了数种入侵我自己写的后台的方法! 这种感觉非常好玩, 你能彻底明白为什么程序员的不小心能导致安全隐患, 也知道为什么程序员总是不小心! 因为可以考虑的东西实在太多.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>爬虫教程系列</h2>
+<p>爬虫系列已经很久没有更新了, 我还会继续更新, 因为这是一个长期项目; 但是最近一个月都不知道有没有时间来更新, 因为要做的东西实在有点儿多, 生活开始充实起来, 没有这么多时间来搞各种技术; 战线不能拉太长啊! 但是爬虫是一个非常有意思的项目, 尤其是去爬一定规模的网站, 尤其是用个人电脑已经完成不了这么大任务的爬虫, 那就会涉及到非常多的东西了, 而且都是技术密度大的东西, 并非码农项目哦!</p>
+<p>&nbsp;</p>
+<p>该午休了.</p>
+				</div>
+			</article>
+				<ol class="page-navigator"><li class='current'><span>1</span></li><li><a href='http://jecvay.com/page/2/' title='第 2 页'>2</a></li><li><a href='http://jecvay.com/page/3/' title='第 3 页'>3</a></li><li><a href='http://jecvay.com/page/4/' title='第 4 页'>4</a></li><li><a href='http://jecvay.com/page/5/' title='第 5 页'>5</a></li><li><a href='http://jecvay.com/page/6/' title='第 6 页'>6</a></li><li><span>...</span></li><li><a href='http://jecvay.com/page/2/' title='Next &raquo;'>Next &raquo;</a></li></ol>	</div>
+</div>
+<div id="secondary">
+	<section class="widget">
+        <form id="search" method="get" action="http://jecvay.com">
+			<input type="text" name="s" class="text" placeholder="输入关键字搜索" />
+			<button type="submit" class="submit">搜索</button>
+        </form>
+    </section>
+	<section id="nav_menu-7" class="widget widget_nav_menu"><h3 class="widget-title">Maybe you like</h3><div class="menu-%e4%be%a7%e8%be%b9rss-container"><ul id="menu-%e4%be%a7%e8%be%b9rss" class="menu"><li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://weibo.com/345261605">微博</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://jecvay.com/feed/">RSS</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="http://labs.jecvay.com">实验室</a></li>
+<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="http://jecvay.com/archive/">所有文章</a></li>
+<li id="menu-item-387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-387"><a href="https://www.newszeit.com/?url=http%3A%2F%2Fjecvay.com%2Ffeed">用NewsZeit订阅</a></li>
+</ul></div></section><section id="nav_menu-6" class="widget widget_nav_menu"><h3 class="widget-title">Blogroll</h3><div class="menu-blogroll-container"><ul id="menu-blogroll" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.fredchenjialin.com">Fredchen</a></li>
+<li id="menu-item-262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-262"><a href="http://Polossk.com/">Polossk</a></li>
+<li id="menu-item-263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-263"><a href="http://TpircsBoy.com/">TpircsBoy</a></li>
+<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-423"><a href="http://yuan25.com">Yuan25</a></li>
+<li id="menu-item-449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-449"><a href="http://nowall57.com">NoWall</a></li>
+</ul></div></section><section id="wpctc_widget-5" class="widget widget_wpctc_widget"><h3 class="widget-title">Tags</h3>    <div
+        id="wpctc_widget-5-tagcloud"
+        class='wpctc-wpctc_widget-5   wpctc-rounded    wpctc-rounded'>
+        <ul class='wp-tag-cloud'>
+	<li><a href='http://jecvay.com/tag/acm-icpc/' class='tag-link-2' title='1 topic' style='font-size: 100%;'>ACM-ICPC</a></li>
+	<li><a href='http://jecvay.com/tag/cdn%e5%8a%a0%e9%80%9f/' class='tag-link-7' title='1 topic' style='font-size: 100%;'>CDN加速</a></li>
+	<li><a href='http://jecvay.com/tag/codeforces/' class='tag-link-8' title='2 topics' style='font-size: 100%;'>CodeForces</a></li>
+	<li><a href='http://jecvay.com/tag/gcj/' class='tag-link-9' title='1 topic' style='font-size: 100%;'>GCJ</a></li>
+	<li><a href='http://jecvay.com/tag/hihocoder/' class='tag-link-53' title='3 topics' style='font-size: 100%;'>hihoCoder</a></li>
+	<li><a href='http://jecvay.com/tag/lca/' class='tag-link-51' title='1 topic' style='font-size: 100%;'>LCA</a></li>
+	<li><a href='http://jecvay.com/tag/linux/' class='tag-link-56' title='1 topic' style='font-size: 100%;'>Linux</a></li>
+	<li><a href='http://jecvay.com/tag/poj/' class='tag-link-11' title='14 topics' style='font-size: 100%;'>POJ</a></li>
+	<li><a href='http://jecvay.com/tag/python/' class='tag-link-12' title='4 topics' style='font-size: 100%;'>Python</a></li>
+	<li><a href='http://jecvay.com/tag/rmq/' class='tag-link-54' title='1 topic' style='font-size: 100%;'>RMQ</a></li>
+	<li><a href='http://jecvay.com/tag/sae/' class='tag-link-13' title='1 topic' style='font-size: 100%;'>SAE</a></li>
+	<li><a href='http://jecvay.com/tag/st-table/' class='tag-link-55' title='1 topic' style='font-size: 100%;'>ST-Table</a></li>
+	<li><a href='http://jecvay.com/tag/ubuntu/' class='tag-link-57' title='1 topic' style='font-size: 100%;'>Ubuntu</a></li>
+	<li><a href='http://jecvay.com/tag/uva/' class='tag-link-14' title='1 topic' style='font-size: 100%;'>UVA</a></li>
+	<li><a href='http://jecvay.com/tag/wordpress/' class='tag-link-15' title='1 topic' style='font-size: 100%;'>WordPress</a></li>
+	<li><a href='http://jecvay.com/tag/%e4%ba%8c%e5%88%86%e6%90%9c%e7%b4%a2/' class='tag-link-16' title='2 topics' style='font-size: 100%;'>二分搜索</a></li>
+	<li><a href='http://jecvay.com/tag/%e4%bc%98%e5%85%88%e9%98%9f%e5%88%97/' class='tag-link-17' title='1 topic' style='font-size: 100%;'>优先队列</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%88%86%e5%b8%83%e5%bc%8f%e8%ae%a1%e7%ae%97/' class='tag-link-18' title='2 topics' style='font-size: 100%;'>分布式计算</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%88%86%e6%a1%b6%e6%b3%95/' class='tag-link-19' title='1 topic' style='font-size: 100%;'>分桶法</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%8a%a8%e6%80%81%e8%a7%84%e5%88%92/' class='tag-link-20' title='4 topics' style='font-size: 100%;'>动态规划</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%8c%ba%e5%9f%9f%e8%b5%9b/' class='tag-link-49' title='1 topic' style='font-size: 100%;'>区域赛</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%8d%9a%e5%ae%a2/' class='tag-link-21' title='1 topic' style='font-size: 100%;'>博客</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%b9%b3%e6%96%b9%e5%88%86%e5%89%b2/' class='tag-link-22' title='1 topic' style='font-size: 100%;'>平方分割</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%b9%b6%e6%9f%a5%e9%9b%86/' class='tag-link-23' title='1 topic' style='font-size: 100%;'>并查集</a></li>
+	<li><a href='http://jecvay.com/tag/%e5%bc%80%e5%85%b3%e9%97%ae%e9%a2%98/' class='tag-link-24' title='2 topics' style='font-size: 100%;'>开关问题</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%80%9d%e8%80%83/' class='tag-link-25' title='2 topics' style='font-size: 100%;'>思考</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%95%b0%e6%8d%ae%e5%ba%93/' class='tag-link-26' title='1 topic' style='font-size: 100%;'>数据库</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%95%b0%e8%ae%ba/' class='tag-link-27' title='3 topics' style='font-size: 100%;'>数论</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%9c%80%e5%b0%8f%e7%94%9f%e6%88%90%e6%a0%91/' class='tag-link-28' title='1 topic' style='font-size: 100%;'>最小生成树</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%9c%80%e7%9f%ad%e8%b7%af/' class='tag-link-29' title='1 topic' style='font-size: 100%;'>最短路</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%a0%91%e7%8a%b6%e6%95%b0%e7%bb%84/' class='tag-link-30' title='1 topic' style='font-size: 100%;'>树状数组</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%b1%87%e7%bc%96%e4%b8%8e%e7%bb%84%e6%88%90%e5%8e%9f%e7%90%86/' class='tag-link-31' title='3 topics' style='font-size: 100%;'>汇编与组成原理</a></li>
+	<li><a href='http://jecvay.com/tag/%e6%b8%b8%e6%88%8f/' class='tag-link-32' title='2 topics' style='font-size: 100%;'>游戏</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%88%ac%e8%99%ab/' class='tag-link-33' title='4 topics' style='font-size: 100%;'>爬虫</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9/' class='tag-link-34' title='3 topics' style='font-size: 100%;'>状态压缩</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%9f%a5%e4%b9%8e/' class='tag-link-35' title='1 topic' style='font-size: 100%;'>知乎</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%a6%bb%e7%ba%bf%e7%ae%97%e6%b3%95/' class='tag-link-52' title='1 topic' style='font-size: 100%;'>离线算法</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%ae%97%e6%b3%95/' class='tag-link-36' title='4 topics' style='font-size: 100%;'>算法</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%ba%bf%e6%ae%b5%e6%a0%91/' class='tag-link-37' title='2 topics' style='font-size: 100%;'>线段树</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%bc%96%e8%af%91%e5%8e%9f%e7%90%86/' class='tag-link-58' title='1 topic' style='font-size: 100%;'>编译原理</a></li>
+	<li><a href='http://jecvay.com/tag/%e7%bd%91%e7%bb%9c%e6%b5%81/' class='tag-link-59' title='1 topic' style='font-size: 100%;'>网络流</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%a5%bf%e5%b7%a5%e5%a4%a7/' class='tag-link-38' title='1 topic' style='font-size: 100%;'>西工大</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%ae%a1%e7%ae%97%e5%87%a0%e4%bd%95/' class='tag-link-39' title='1 topic' style='font-size: 100%;'>计算几何</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%93%e4%b8%9a/' class='tag-link-40' title='2 topics' style='font-size: 100%;'>计算机专业</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%bd%91%e7%bb%9c/' class='tag-link-41' title='1 topic' style='font-size: 100%;'>计算机网络</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%ae%b0%e5%bf%86%e5%8c%96%e6%90%9c%e7%b4%a2/' class='tag-link-42' title='1 topic' style='font-size: 100%;'>记忆化搜索</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%af%bb%e4%b9%a6/' class='tag-link-43' title='2 topics' style='font-size: 100%;'>读书</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%b4%aa%e5%bf%83/' class='tag-link-50' title='1 topic' style='font-size: 100%;'>贪心</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b/' class='tag-link-44' title='3 topics' style='font-size: 100%;'>软件工程</a></li>
+	<li><a href='http://jecvay.com/tag/%e8%bf%bd%e9%80%90%e6%b3%95/' class='tag-link-45' title='1 topic' style='font-size: 100%;'>追逐法</a></li>
+</ul>
+        </div>
+                    <style type="text/css">
+                .wpctc-wpctc_widget-5                a {
+                    color: #888 !important;
+                }
+                .wpctc-tag-links.wpctc-wpctc_widget-5                a:after {
+                    background-color: #888 !important;
+                }
+            </style>
+                    <style type="text/css">
+                .wpctc-wpctc_widget-5                a {
+                    border-color: #888 !important;
+                }
+            </style>
+        </section>    
+</div>		</div>
+    </div>
+</div>
+<footer id="footer">
+	<div class="container">
+		
+	</div>
+</footer>
+<script type="text/x-mathjax-config"> 
+        MathJax.Hub.Config({ 
+                TeX: {equationNumbers: {autoNumber: ["AMS"], useLabelIds: true}}, 
+                "HTML-CSS": {linebreaks: {automatic: true}}, 
+                SVG: {linebreaks: {automatic: true}}
+        }); 
+</script><script type="text/javascript" src="http://ljw.yuan25.com/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML">MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+</script><script type='text/javascript'>
+/* <![CDATA[ */
+var SlimStatParams = {"ajaxurl":"http:\/\/jecvay.com\/wp-admin\/admin-ajax.php","ci":"YToyOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoiaG9tZSI7czo4OiJjYXRlZ29yeSI7czowOiIiO30=.ee6e1c036c6fa76cec6892711a40318a","extensions_to_track":"pdf,doc,xls,zip"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.jsdelivr.net/wp-slimstat/3.8.5/wp-slimstat.js'></script>
+<script type='text/javascript' src='http://jecvay.qiniudn.com/wp-content/plugins/wp-category-tag-could/javascript/jquery.tagcanvas.min.js?ver=0.8.5'></script>
+<script type='text/javascript' src='http://jecvay.qiniudn.com/wp-content/plugins/wp-category-tag-could/javascript/wpctc.tagcanvas.min.js?ver=0.8.5'></script>
+<script type='text/javascript' src='http://jecvay.qiniudn.com/wp-content/plugins/wp-category-tag-could/javascript/jquery.style.min.js?ver=0.8.5'></script>
+<script type='text/javascript' src='http://jecvay.qiniudn.com/wp-content/plugins/wp-category-tag-could/javascript/wp-category-tag-cloud.min.js?ver=0.8.5'></script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?1652508549bc531681d6e07c46680834";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.609 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-12-06 09:56:01 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
