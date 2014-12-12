@@ -24,6 +24,7 @@ oneDay=datetime.timedelta(days=1)
 #lastDay=datetime.date.today()-oneDay
 lastDay=tmpDate+oneDay
 db_rex=re.compile("[-+]?\d+(?:\.\d+)?")
+score_rex=re.compile("^(?P<home_score>\d+):(?P<away_score>\d+)$")
 while tmpDate < lastDay:
     print tmpDate
     now_url=base_url+tmpDate.strftime("%Y-%m-%d")
@@ -54,26 +55,53 @@ while tmpDate < lastDay:
         #        for span_element in span :
         #            print i,span_element
         now_match=pro_soup.find('match',attrs={'id':zid})
-        sp=db_rex.search(now_match.find('europe').get('avg'))
-        pro=db_rex.search(now_match.find('gl').get('avg'))
+        sp_string=now_match.find('europe').get('avg')
+        pro_string=now_match.find('gl').get('avg')
+        sp=db_rex.findall(sp_string)
+        pro=db_rex.findall(pro_string)
         print "sp="
         print sp
         print "pro="
         print pro
         if sp and pro :
-            result0=sp.group()
-            print "hereis===!!!!!==="
-            print len(result0)
-            for i in range ( len ( result0 ) ) :
-                print i,result0[i]
-            #    out = out + "\t" + sp[i]
-            #for i in range ( len (pro ) ) :
-            #    out = out + "\t" + pro[i]
+            #print "hereis===sp"
+            #for sp in db_rex.finditer(sp_string):
+            #    print sp
+            #print "hereis===pro"
+            #for pro in db_rex.finditer(pro_string):
+            #    print pro
+            print "has OK!"
+
+            #print len(result0)
+            for i in range ( len ( sp ) ) :
+                print i,sp[i]
+                out = out + "\t" + sp[i]
+            for i in range ( len (pro ) ) :
+                out = out + "\t" + pro[i]
         else :
             continue
         print out
-        result=match.find('a',attrs={'class':"score"}).text
-        print result
+        result=score_rex.search(match.find('a',attrs={'class':"score"}).text)
+        if result :
+            away_score=result.group("away_score")
+            home_score=result.group("home_score")
+            print "score"
+            print away_score+" vs "+home_score
+        else :
+            continue
+        if away_score < home_score :
+            print "win!"
+            out = out + "\twin"
+        elif away_score == home_score :
+            print "draw!"
+            out = out + "\tdraw"
+        else :
+            print "lose!"
+            out = out + "\tlose"
+
+        #print result
+        #out = out +"\t"+result
+        f.write(out+"\n")
     tmpDate = tmpDate + oneDay
 
 
